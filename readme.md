@@ -2,7 +2,7 @@
 =======
 本项目主要介绍如何利用国外VPS搭建多协议代理服务。
 
-感谢https://pac.itzmx.com/  基于itzmx修改。
+感谢http://bbs.itzmx.com/thread-8815-1-1.html  本文基于itzmx修改。
 
 搭建代理服务器
 ==============
@@ -11,35 +11,35 @@
 
 Ubuntu（需要一行一行复制安装）:
 -------
-> apt-get -y install squid
-curl http://www.rpsofts.com/vvv/squid/ubuntu-squid.conf
-/etc/squid3/squid.conf
-mkdir -p /var/cache/squid
-chmod -R 777 /var/cache/squid
-service squid3 stop
-squid3 -z
-service squid3 restart
+	apt-get -y install squid
+	curl http://www.rpsofts.com/vvv/squid/ubuntu-squid.conf  > /etc/squid3/squid.conf
+	mkdir -p /var/cache/squid
+	chmod -R 777 /var/cache/squid
+	service squid3 stop
+	squid3 -z
+	service squid3 restart
+
 
 
 
 CentOS 6.7 x64（推荐用此系统）:
 -------
-> setenforce 0
-ulimit -n 1048576
-echo "* soft nofile 1048576" >> /etc/security/limits.conf
-echo "* hard nofile 1048576" >> /etc/security/limits.conf
-echo "alias net-pf-10 off" >> /etc/modprobe.d/dist.conf
-echo "alias ipv6 off" >> /etc/modprobe.d/dist.conf
-killall sendmail
-/etc/init.d/postfix stop
-chkconfig --level 2345 postfix off
-yum -y install squid
-wget -O /etc/squid/squid.conf http://wwww.rpsofts.com/vvv/squid/centos-squid.conf
-mkdir -p /var/cache/squid
-chmod -R 777 /var/cache/squid
-squid -z
-service squid restart
-chkconfig --level 2345 squid on
+	setenforce 0
+	ulimit -n 1048576
+	echo "* soft nofile 1048576" >> /etc/security/limits.conf
+	echo "* hard nofile 1048576" >> /etc/security/limits.conf
+	echo "alias net-pf-10 off" >> /etc/modprobe.d/dist.conf
+	echo "alias ipv6 off" >> /etc/modprobe.d/dist.conf
+	killall sendmail
+	/etc/init.d/postfix stop
+	chkconfig --level 2345 postfix off
+	yum -y install squid
+	wget -O /etc/squid/squid.conf http://www.rpsofts.com/vvv/squid/centos-squid.conf
+	mkdir -p /var/cache/squid
+	chmod -R 777 /var/cache/squid
+	squid -z
+	service squid restart
+	chkconfig --level 2345 squid on
 
 
 装完后记得reboot重启下服务器确保生效。
