@@ -1,9 +1,8 @@
-https://www.rpsofts.com/vvv
-[PAC](https://www.rpsofts.com/vvv)
+[PAC](http://www.rpsofts.com/vvv)
 =======
 本项目主要介绍如何利用国外VPS搭建多协议代理服务。
 
-感谢http://bbs.itzmx.com/thread-8815-1-1.html  本文基于itzmx修改。
+感谢http://bbs.itzmx.com/thread-8815-1-1.html  http://www.rpsofts.com/vvv  本文基于itzmx修改。
 
 # PAC地址
 主：https://rplog.qiniudn.com/o_1a1bdhi212lroks75o19m3aha.pac
