@@ -2,7 +2,7 @@
 =======
 本项目主要介绍如何利用国外VPS搭建多协议代理服务。
 
-感谢http://bbs.itzmx.com/thread-8815-1-1.html  及 http://www.rpsofts.com/vvv  本文基于itzmx修改。
+感谢http://www.72blog.com/squid-PAC.html  及 http://www.rpsofts.com/vvv  本文基于[itzmx](http://bbs.itzmx.com/thread-8815-1-1.html)修改。
 
 # PAC地址
 主：https://rplog.qiniudn.com/o_1a1bdhi212lroks75o19m3aha.pac
