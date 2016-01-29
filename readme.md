@@ -5,7 +5,7 @@
 感谢http://www.72blog.com/squid-PAC.html  及 http://www.rpsofts.com/vvv  本文基于[itzmx]修改。
 
 # PAC地址
-主：https://rplog.qiniudn.com/o_1a1bdhi212lroks75o19m3aha.pac
+主：https://rplog.qiniudn.com/o_1a1bdhi212lroks75o19m3aha.pac  （演示的几台服务器因为用的人太多了或者被举报，都被墙了。不再提供，如有需要请自行搭建。）
 备：https://rplog.qiniudn.com/o_1a1bbteeq4q34427ev2ndfra.pac
 # 使用方法
 先介绍一下设置各个系统代理的方法。
