@@ -20,9 +20,9 @@ Internet选项 -> 连接 选项卡 -> 局域网设置(如果是电脑拨号上�
 ## IOS (IPhone/IPad)
 打开设置, 选择Wi-Fi
 选择当前使用的热点
-![](http://i3.tietuku.com/2204fd1ef2747bd4.png)
+![](http://tutu72.qiniudn.com/o_1ad7hfpgi1c7ciqoen517m06s6a.png)
 拖到最下面的代理设置，选择"自动"，填写PAC地址 
-![](http://i3.tietuku.com/a5a70098da4ea3f0.png)
+![](http://tutu72.qiniudn.com/o_1ad7hfu4h6sfjvv1cm1qu7168jf.png)
 ## Android
 安卓5.0以上版本 使用方法同苹果，早期版本需要使用第三方软件
 
@@ -64,7 +64,7 @@ CentOS 6.7 x64（推荐用此系统）:
 
 装完后记得reboot重启下服务器确保生效。
 
-然后使用[ PAC](http://rplog.qiniudn.com/o_1a1bdhi212lroks75o19m3aha.pac " PAC")右键另存为 PAC 文件后修改其中的IP地址为你的服务器IP即可。
+然后使用[ PAC](http://www.rpsofts.com/1.pac " PAC")右键另存为 PAC 文件后修改其中的IP地址为你的服务器IP即可。
 
 注意服务器DNS修改成8.8.8.8（配置文件目前强制指定了DNS，可以无需修改）
 
