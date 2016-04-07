@@ -3,6 +3,13 @@
 本项目主要介绍如何利用国外VPS搭建多协议代理服务。
 
 感谢http://www.72blog.com/squid-PAC.html  及 http://www.rpsofts.com/vvv  本文基于[itzmx]修改。
+做一下广告：
+推荐使用美国西海岸服务器，，如digitalocean，，虽然现在不如前几年，不过kvm配合锐速，720youtube还是可以的。。走我的链接，注册送10刀，注册链接：https://m.do.co/c/f092171fe8cb，当然你也可以找我（guotai@live.com）索取50刀github的优惠卷。。加上优惠卷基本5美元可以用1年时间。。
+此外vultr东京机房的也不错，，http://www.vultr.com/?ref=6887663。。
+我自己就是用vultr东京机房和softlayer香港的（当然softlayer现在已坑，绕的太厉害，不建议购买）
+
+
+
 
 # PAC地址
 主：http://www.rpsofts.com/1.pac  （演示的几台服务器因为用的人太多了或者被举报，都被墙了。不再持续提供，如有需要请自行搭建。）
