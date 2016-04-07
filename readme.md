@@ -76,4 +76,4 @@ CentOS 6.7 x64（推荐用此系统）:
 
 注意服务器DNS修改成8.8.8.8（配置文件目前强制指定了DNS，可以无需修改）
 
-tadtung@gmail.com
+tadtung@gmail.com or guoai@live.com
