@@ -64,7 +64,7 @@ CentOS 6.7 x64（推荐用此系统）:
 
 装完后记得reboot重启下服务器确保生效。
 
-然后使用[ PAC](http://www.rpsofts.com/1.pac " PAC")右键另存为 PAC 文件后修改其中的IP地址为你的服务器IP即可。
+然后使用[ PAC](http://www.rpsofts.com/1.pac " PAC")右键另存为 PAC 文件后修改其中的IP地址（ss.72blog.com）为你的服务器IP即可。
 
 注意服务器DNS修改成8.8.8.8（配置文件目前强制指定了DNS，可以无需修改）
 
