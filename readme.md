@@ -4,10 +4,8 @@
 
 感谢http://www.72blog.com/squid-PAC.html  及 http://www.rpsofts.com/vvv  本文基于[itzmx]修改。
 #做一下广告：
-推荐使用美国西海岸服务器，，如digitalocean，，虽然现在不如前几年，不过kvm配合锐速，720youtube还是可以的。。走我的链接，注册送10刀，
-注册链接：https://m.do.co/c/f092171fe8cb 当然你也可以找我（guotai@live.com）索取50刀github的优惠卷。。加上优惠卷基本5美元可以用1年时间。。
-此外vultr东京机房的也不错，，http://www.vultr.com/?ref=6887663。。
-我自己就是用vultr东京机房和softlayer香港的（当然softlayer现在已坑，绕的太厉害，不建议购买）
+推荐使用美国西海岸服务器，，如digitalocean，，虽然现在不如前几年，不过kvm配合锐速，720youtube还是可以的。。  走我的链接，注册送10刀，注册链接：https://m.do.co/c/f092171fe8cb  当然你也可以找我（guotai@live.com）索取50刀github的优惠卷。。加上优惠卷基本5美元可以用1年时间。。  
+此外vultr东京机房的也不错，，http://www.vultr.com/?ref=6887663。。 2016年4月最新送20美元，优惠码：NGINX20【官方没有说有效期，有可能是长效的，你用完为止】 我自己就是用vultr东京机房和softlayer香港的（当然softlayer现在已坑，绕的太厉害，不建议购买）
 
 
 
