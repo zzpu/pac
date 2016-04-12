@@ -79,5 +79,8 @@ CentOS 6.7 x64（推荐用此系统）:
 如果你有多组安装squid的vps或者服务器可以是像我一样，者配置负载均衡或者分区域解析。。
 
 注意服务器DNS修改成8.8.8.8（配置文件目前强制指定了DNS，可以无需修改）
+此外最近常常有人说安装后 不能使用，，我大概看了一下基本都是25端口未开放，，请自行修改防火墙规则（/sbin/iptables -I INPUT -p tcp --dport 25 -j ACCEPT
+）。。  此外就是再次注意安装完后需要重启vps。
+
 
 tadtung@gmail.com or guoai@live.com
