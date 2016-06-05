@@ -2,7 +2,7 @@
 =======
 本项目主要介绍如何利用国外VPS搭建多协议代理服务。
 
-感谢http://www.72blog.com/squid-PAC.html  及 http://www.rpsofts.com/vvv  本文基于[itzmx]修改。
+感谢http://www.72blog.com/squid-PAC.html  及 http://v.rpsofts.com/app/doc/pac.html  本源码基于[itzmx]修改。
 #做一下广告：
 廉价服务器推荐：http://www.rpsofts.com/category/vps
 
