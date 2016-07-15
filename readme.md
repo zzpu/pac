@@ -1,20 +1,18 @@
 [PAC](http://www.rpsofts.com/vvv)
 =======
-本项目主要介绍如何利用国外VPS搭建多协议代理服务。
-
-感谢http://www.72blog.com/squid-PAC.html  及 http://v.rpsofts.com/app/doc/pac.html  本源码基于[itzmx]修改。
+本项目主要介绍如何利用国外VPS搭建多协议代理服务。http://www.72blog.com/squid-PAC.html  。
 #做一下广告：
 廉价服务器推荐：http://www.rpsofts.com/category/vps
 
-推荐使用美国西海岸服务器，，如digitalocean，，虽然现在不如前几年，不过kvm配合锐速，720youtube还是可以的。。  走我的链接，注册送10刀，注册链接：https://m.do.co/c/f092171fe8cb  ~~当然你也可以找我（guotai@live.com）索取50刀github的优惠卷。。加上优惠卷基本5美元可以用1年时间。
-。~~  已经不再继续赠送。。。
+
 
 此外vultr东京机房的也不错，，http://www.vultr.com/?ref=6918500-3B  。。走我的链接送20刀（之前50刀的已经不能继续使用）
     同时需要注意  部分主机商为防止垃圾邮件泛滥，，，Vultr的VPS初始情况下SMTP端口25是关闭的。如果要使用25端口翻墙，要在vultr后台填写一个ticket申请打开，管理员才会为你打开该端口。
 申请邮件可以简单这么写：
 Please unblock port 25. WordPress need it open. Thanks!（一般24小时会给你开通的，工作时间的话 基本几分钟就会开通。）
 
-
+推荐使用美国西海岸服务器，，如digitalocean，，虽然现在不如前几年，不过kvm配合锐速，720youtube还是可以的。。  走我的链接，注册送10刀，注册链接：https://m.do.co/c/f092171fe8cb  ~~当然你也可以找我（guotai@live.com）索取50刀github的优惠卷。。加上优惠卷基本5美元可以用1年时间。
+。~~  已经不再继续赠送。。。
 
 
 
