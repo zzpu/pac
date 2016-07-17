@@ -83,7 +83,8 @@ CentOS 6.7 x64（推荐用此系统）:
 
 装完后记得reboot重启下服务器确保生效。
 
-然后使用[ PAC](http://v.rpsofts.com/app/pac/1.pac  " PAC")右键另存为 PAC 文件后修改其中的IP地址（ss.72blog.com）为你的服务器IP即可。
+然后使用[ PAC](http://v.rpsofts.com/app/pac/1.pac  " PAC")右键另存为 PAC 文件后修改其中的代理地址（s.rpsofts.com）为你的服务器IP或者域名即可。
+
 如果你有多组安装squid的vps或者服务器可以是像我一样，者配置负载均衡或者分区域解析。。
 
 注意服务器DNS修改成8.8.8.8（配置文件目前强制指定了DNS，可以无需修改）
