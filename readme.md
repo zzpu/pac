@@ -18,6 +18,7 @@ Please unblock port 25. WordPress need it open. Thanks!（一般24小时会给�
 
 # PAC地址
 主：http://v.rpsofts.com/app/pac/1.pac  （演示的几台服务器因为用的人太多了或者被举报，都被墙了。不再持续提供，如有需要请自行搭建。）
+
 备：http://v.rpsofts.com/app/pac/2.pac (全局代理，，，因为比较简单所以之前没特别说，，最近有人问，，就特别写出来。)
 pac地址具体写法，，请自行百度。。。
 多个代理可以使用负载均衡，，也可以使用dns轮询，也可以在pac里面，依照顺序写出来。
