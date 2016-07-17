@@ -1,6 +1,6 @@
 [PAC](http://www.rpsofts.com/vvv)
 =======
-本项目主要介绍如何利用国外VPS搭建多协议代理服务。http://www.72blog.com/squid-PAC.html  。
+本项目主要介绍如何利用国外VPS搭建多协议代理服务。http://www.72blog.com/squid-PAC.html  。 http://www.rpsofts.com/vvv
 #做一下广告：
 廉价服务器推荐：http://www.rpsofts.com/category/vps
 
