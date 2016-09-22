@@ -2,7 +2,14 @@
 =======
 本项目主要介绍如何利用国外VPS搭建多协议代理服务。http://www.72blog.com/squid-PAC.html  。 http://www.rpsofts.com/vvv
 #做一下广告：
-廉价服务器推荐：http://www.rpsofts.com/category/vps
+廉价服务器推荐：
+
+板瓦工又来了传说中的低价神器。。。
+18.99 刀年付， 1G 内存， 2T 流量购买链接：
+https://bwh1.net/aff.php?aff=4477&pid=28
+
+11.99 刀年付， 512 内存， 1T 流量购买链接：
+https://bwh1.net/aff.php?aff=4477&pid=27
 
 
 
