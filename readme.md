@@ -60,7 +60,7 @@ Internet选项 -> 连接 选项卡 -> 局域网设置(如果是电脑拨号上�
 Ubuntu（需要一行一行复制安装）:
 -------
 	apt-get -y install squid
-	curl http://www.rpsofts.com/vvv/squid/ubuntu-squid.conf  > /etc/squid3/squid.conf
+	curl https://raw.githubusercontent.com/rptec/squid-PAC/master/squid/ubuntu-squid.conf  > /etc/squid3/squid.conf
 	mkdir -p /var/cache/squid
 	chmod -R 777 /var/cache/squid
 	service squid3 stop
@@ -80,7 +80,7 @@ CentOS 6.7 x64（推荐用此系统）:
 	/etc/init.d/postfix stop
 	chkconfig --level 2345 postfix off
 	yum -y install squid
-	wget -O /etc/squid/squid.conf http://www.rpsofts.com/vvv/squid/centos-squid.conf
+	wget -O /etc/squid/squid.conf https://raw.githubusercontent.com/rptec/squid-PAC/master/squid/centos-squid.conf
 	mkdir -p /var/cache/squid
 	chmod -R 777 /var/cache/squid
 	squid -z
