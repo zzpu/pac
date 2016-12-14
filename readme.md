@@ -1,6 +1,6 @@
 [PAC](http://www.rpsofts.com/vvv)
 =======
-本项目主要介绍如何利用国外VPS搭建多协议代理服务。http://www.72blog.com/squid-PAC.html  。 http://www.rpsofts.com/vvv
+本项目主要介绍如何利用国外VPS搭建多协议代理服务。http://v.rpsofts.com/app/doc/pac.html
 
 # 我提供的免费翻墙   http://cdn.rpsofts.com/1.pac   
 加拿大KW 数据中心    已经安装 bbr加速，可流畅观看 youtube 720p视频，，1080p就算了 毕竟  免费公开用的人多。
@@ -33,7 +33,8 @@ Please unblock port 25. WordPress need it open. Thanks!（一般24小时会给�
 你也可以将1.pac 下载下来，，然后放到 你电脑的任何位置，， 例如 d盘
 
 配置时如下
-![](http://cdn.rpsofts.com/o_1aj11sbamej88gt7hjh219aba.jpg)
+
+![](http://ww2.sinaimg.cn/mw690/6ff5e63ajw1far2gor5ukj20b6051aai.jpg)
 
 
 备：https://raw.githubusercontent.com/rptec/squid-PAC/master/2.pac (全局代理，，，因为比较简单所以之前没特别说，，最近有人问，，就特别写出来。)
