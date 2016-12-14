@@ -1,7 +1,10 @@
 [PAC](http://www.rpsofts.com/vvv)
 =======
 本项目主要介绍如何利用国外VPS搭建多协议代理服务。http://www.72blog.com/squid-PAC.html  。 http://www.rpsofts.com/vvv
-#做一下广告：
+
+# 我提供的免费翻墙   http://cdn.rpsofts.com/1.pac   加拿大 独服已安装 bbr加速，可流畅观看 youtube 720p视频
+
+# 做一下广告：
 廉价服务器推荐：
 
 板瓦工又来了传说中的低价神器。。。
@@ -24,9 +27,10 @@ Please unblock port 25. WordPress need it open. Thanks!（一般24小时会给�
 
 
 # PAC地址
-主：http://v.rpsofts.com/app/pac/1.pac  （演示的几台服务器因为用的人太多了或者被举报，都被墙了。不再持续提供，如有需要请自行搭建。）
+主：https://raw.githubusercontent.com/rptec/squid-PAC/master/1.pac  （将其中  第一行 你的ip换为   你安装squid vps的ip地址，）
 
-备：http://v.rpsofts.com/app/pac/2.pac (全局代理，，，因为比较简单所以之前没特别说，，最近有人问，，就特别写出来。)
+
+备：https://raw.githubusercontent.com/rptec/squid-PAC/master/2.pac (全局代理，，，因为比较简单所以之前没特别说，，最近有人问，，就特别写出来。)
 pac地址具体写法，，请自行百度。。。
 多个代理可以使用负载均衡，，也可以使用dns轮询，也可以在pac里面，依照顺序写出来。
 
