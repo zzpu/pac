@@ -3,7 +3,7 @@
 本项目主要介绍如何利用国外VPS搭建多协议代理服务。http://v.rpsofts.com/app/doc/pac.html
 
 # 我提供的免费翻墙   http://cdn.rpsofts.com/1.pac   
-加拿大KW 数据中心    已经安装 bbr加速，可流畅观看 youtube 720p视频，，1080p就算了 毕竟  免费公开用的人多。
+加拿大KW 数据中心    已经安装配置了 googlr的  bbr加速，可流畅观看 youtube 720p视频，，1080p就算了，毕竟免费公开用的人多。
 
 # 做一下广告：。
 廉价服务器推荐：
