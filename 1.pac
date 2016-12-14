@@ -1,4 +1,4 @@
-var proxy = "PROXY s.guotai.me:25;";
+var proxy = "PROXY 你的ip地址:25;";
 
 var domains = {
   "10musume.com": 1, 
