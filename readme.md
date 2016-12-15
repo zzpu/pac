@@ -8,8 +8,7 @@
 
 免费节点 我会持续续费，并将一直免费提供下去。不过如果你想拥有更快的速度还是建议你自行购买vps配置，过程中有问题，可联系我。
 
-主节点 为加拿大KW 数据中心（副节点一个vultr东京的，一个法国的，，根据你的位置自动选择节点），已经安装配置了 google的bbr加速，可流畅观看 youtube 720p视频。。。1080p就算了，毕竟免费公开用的人多。
-
+主节点 为加拿大KW 数据中心（副节点一个vultr东京的，一个法国的，，根据你的位置自动选择节点），已经安装配置了 google的bbr加速，可流畅观看 youtube 720p视频。。。1080p就算了，毕竟免费公开用的人多。翻回国内方案使用阿里云北京节点，请勿滥用。
 # 做一下广告：。
 廉价服务器推荐：
 
@@ -99,8 +98,8 @@ CentOS 6.7 x64（推荐用此系统）:
 	squid -z
 	service squid restart
 	chkconfig --level 2345 squid on
-
-
+	
+CentOS 7 如果无法直接使用，修改一下 centos-squid.conf acl就行，，很简单。。
 装完后记得reboot重启下服务器确保生效。
 
 然后使用[ PAC](http://v.rpsofts.com/app/pac/1.pac  " PAC")右键另存为 PAC 文件后修改其中的代理地址（s.rpsofts.com）为你的服务器IP或者域名即可。
