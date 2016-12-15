@@ -4,6 +4,8 @@
 
 # 我提供的免费翻墙   http://cdn.rpsofts.com/1.pac   
 
+增加海外用户翻回国内看视频、听音乐方案。。https://raw.githubusercontent.com/rptec/squid-PAC/master/9.pac
+
 免费节点 我会持续续费，并将一直免费提供下去。不过如果你想拥有更快的速度还是建议你自行购买vps配置，过程中有问题，可联系我。
 
 主节点 为加拿大KW 数据中心（副节点一个vultr东京的，一个法国的，，根据你的位置自动选择节点），已经安装配置了 google的bbr加速，可流畅观看 youtube 720p视频。。。1080p就算了，毕竟免费公开用的人多。
@@ -30,13 +32,10 @@ Please unblock port 25. WordPress need it open. Thanks!（一般24小时会给�
 
 
 
-# PAC地址
+## PAC地址
 主：https://raw.githubusercontent.com/rptec/squid-PAC/master/1.pac  （将其中  第一行 你的ip换为   你安装squid vps的ip地址，上传到随便空间就行，，）
 
-你也可以将1.pac 下载下来，，然后放到 你电脑的任何位置，， 例如 d盘
-
-配置时如下
-
+你也可以将1.pac 下载下来，，然后放到 你电脑的任何位置，， 例如 d盘。。。配置时如下：
 ![](http://ww2.sinaimg.cn/mw690/6ff5e63ajw1far2gor5ukj20b6051aai.jpg)
 
 
@@ -66,7 +65,7 @@ Internet选项 -> 连接 选项卡 -> 局域网设置(如果是电脑拨号上�
 ## 3G/4G
 在apn接入点内 自行设置  代理ip及端口
 
-自行搭建代理服务器
+# 自行搭建代理服务器
 ==============
 在 25 端口搭建 http/https 代理。
 
