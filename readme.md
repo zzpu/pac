@@ -102,6 +102,15 @@ CentOS 6.7 x64（推荐用此系统）:
 CentOS 7 如果无法直接使用，修改一下 centos-squid.conf acl就行，，很简单。。
 装完后记得reboot重启下服务器确保生效。
 
+推荐搭配锐速或者BBR等加速工具，，一般美国线路比较差的也能流畅观看720p。youtube
+一键安装锐速破解全功能版，不支持openvz架构
+
+wget https://raw.githubusercontent.com/rptec/vps-shell/master/serverspeeder.sh && sh serverspeeder.sh
+
+BBR 一键包
+
+wget https://raw.githubusercontent.com/rptec/vps-shell/master/bbr.sh && sh bbr.sh
+
 然后使用[ PAC](http://v.rpsofts.com/app/pac/1.pac  " PAC")右键另存为 PAC 文件后修改其中的代理地址（s.rpsofts.com）为你的服务器IP或者域名即可。
 
 如果你有多组安装squid的vps或者服务器可以是像我一样，者配置负载均衡或者分区域解析。。
