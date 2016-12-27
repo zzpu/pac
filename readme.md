@@ -91,7 +91,8 @@ CentOS 6.7 x64（推荐用此系统）:
 	killall sendmail
 	/etc/init.d/postfix stop
 	chkconfig --level 2345 postfix off
-	yum -y install squid
+	chkconfig --level 2345 sendmail off
+	yum -y install squid wget
 	wget -O /etc/squid/squid.conf https://raw.githubusercontent.com/rptec/squid-PAC/master/squid/centos-squid.conf
 	mkdir -p /var/cache/squid
 	chmod -R 777 /var/cache/squid
