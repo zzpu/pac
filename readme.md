@@ -23,7 +23,7 @@
 这里主要推荐 vultr do及linode这三家主机商。
 linode最新推出了5刀vps，注册后使用优惠码，赠送20刀，  
 > 优惠码 podcastinit2017
-> 注册：https://www.linode.com/?r=439703a4d5e2e1cdb9296b200897619f5917a8d3
+> 注册：https://www.linode.com/?r=39a28be0f41a5c32f7a84521f3bf6e11d1e2ead8
 
 vultr东京机房速度不错，，平均ping值也在100左右。走以下链接送20刀，加上你自己充值5刀，可以使用5个月。
 
