@@ -148,4 +148,4 @@ net.ipv6.conf.lo.disable_ipv6=1
 此外就是再次注意安装完后需要重启vps。
 
 
-tadtung@gmail.com or guoai@live.com
+tadtung@gmail.com or guotai@live.com
