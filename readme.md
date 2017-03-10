@@ -106,7 +106,8 @@ CentOS 6.7 x64（推荐用此系统）:
 	chkconfig --level 2345 squid on
 	
 CentOS 7 
-systemctl是RHEL 7 的服务管理工具中主要的工具，它融合之前service和chkconfig的功能于一体。可以使用它永久性或只在当前会话中启用/禁用服务。其中之前的service和chkconfig已经不再使用，安装时，，你自行将下面用  systemctl stop 替换就行。。当然最后启动suqid 也要换为  systemctl restart squid1`见谅我这边懒得写，所以请自行修改这3行吧。。`	
+systemctl是RHEL 7 的服务管理工具中主要的工具，它融合之前service和chkconfig的功能于一体。可以使用它永久性或只在当前会话中启用/禁用服务。其中之前的service和chkconfig已经不再使用，安装时，，你自行将下面用禁止启动  systemctl disable 或者systemctl enable 替换就行。。当然最后启动suqid 也要换为  systemctl restart squid
+见谅我这边懒得写，所以请自行修改这3行吧。。`	
 
 	chkconfig --level 2345 postfix off
 	chkconfig --level 2345 sendmail off
