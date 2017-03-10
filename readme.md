@@ -25,28 +25,15 @@ linode最新推出了5刀vps，注册后使用优惠码，赠送20刀，
 > 优惠码 podcastinit2017
 > 注册：https://www.linode.com/?r=39a28be0f41a5c32f7a84521f3bf6e11d1e2ead8
 
-vultr东京机房速度不错，，平均ping值也在100左右。走以下链接送20刀，加上你自己充值5刀，可以使用5个月。
+vultr东京机房速度不错，，平均ping值也在100左右。此前vultr 新注册用户赠送20刀，，，他们jiang。降价后现在只赠送5刀，，不过之前冲多少送多少还依然有效    优惠码 VULTRMATCH   
 
-> 注册：http://www.vultr.com/?ref=6918500-3B
+> 注册：http://www.vultr.com/?ref=6887749
 
     同时需要注意  部分主机商为防止垃圾邮件泛滥，，，Vultr的VPS初始情况下SMTP端口25是关闭的。
     如果要使用25端口翻墙，要在vultr后台填写一个ticket申请打开，管理员才会为你打开该端口。
 
-板瓦工又来了传说中的低价神器。。。
-
-18.99 刀年付， 1G 内存， 2T 流量购买链接：
-> https://bwh1.net/aff.php?aff=4477&pid=28
-
-11.99 刀年付， 512 内存， 1T 流量购买链接：
-> https://bwh1.net/aff.php?aff=4477&pid=27
-
-推荐使用美国西海岸服务器，，如digitalocean，，虽然现在不如前几年，不过kvm配合锐速，720youtube还是可以的。。  走我的链接，注册送10刀，
-
-> 注册链接：https://m.do.co/c/f092171fe8cb
-
- ~~当然你也可以找我（guotai@live.com）索取50刀github的优惠卷。。加上优惠卷基本5美元可以用1年时间。
-。~~  已经不再继续赠送。。。
-
+另外就是 google的 GCE现在注册免费试用1年 https://cloud.google.com/free/送300刀，
+需要信用卡，国内招商银行的全币种卡、浦发银行的VISA卡都可以腾讯财付通的虚拟卡也ok，，不过切记尽量不要用自己的信用卡，，我前几年GCE刚出时用自己的卡，就被坑过。。
 
 
 ## PAC地址
