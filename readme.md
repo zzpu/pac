@@ -1,7 +1,7 @@
 [PAC](http://www.rpsofts.com/vvv)
 =======
 利用国外VPS搭建多协议代理服务。http://v.rpsofts.com/app/doc/pac.html
-支持win，mac，安卓，IOS全部平台。无需额外软件。。适合新手使用。
+支持win，mac，安卓，IOS全部平台。无需额外软件。。适合新手使用。   
 # 我提供的免费翻墙   
 
 > http://cdn.rpsofts.com/1.pac
@@ -9,6 +9,8 @@
 增加海外用户翻回国内看视频、听音乐方案。。
 
 > https://raw.githubusercontent.com/rptec/squid-PAC/master/9.pac
+免费提供难免损害某些人利益，这几台vps 常常会被销售ss的同行攻击，所以建议如有条件最好自己搭建。
+
 
     免费节点 我会持续续费，并将一直免费提供下去。不过如果你想拥有更快的速度还是建议你自行购买vps配置，过程中有问题，可联系我。
 
