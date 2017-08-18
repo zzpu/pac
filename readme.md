@@ -74,15 +74,15 @@ Internet选项 -> 连接 选项卡 -> 局域网设置(如果是电脑拨号上�
 在 25 端口搭建 http/https 代理。
 
 
-Ubuntu（需要一行一行复制安装）:
+Ubuntu（需要一行一行复制安装）:  ubuntu 16.10 X64  (早前版本  squid 目录为 squid3 请自行修改，例如 /etc/squid3/squid.conf)
 -------
 	apt-get -y install squid
-	curl https://raw.githubusercontent.com/rptec/squid-PAC/master/squid/ubuntu-squid.conf  > /etc/squid3/squid.conf
+	curl https://raw.githubusercontent.com/rptec/squid-PAC/master/squid/ubuntu-squid.conf  > /etc/squid/squid.conf
 	mkdir -p /var/cache/squid
 	chmod -R 777 /var/cache/squid
-	service squid3 stop
-	squid3 -z
-	service squid3 restart
+	service squid stop
+	squid -z
+	service squid restart
 
 
 CentOS 6.7 x64（推荐用此系统）:
