@@ -1,4 +1,4 @@
-[PAC](http://www.rpsofts.com/vvv)
+[墙已加高，建议使用ssr替代本项目。。。]
 =======
 利用国外VPS搭建多协议代理服务。http://v.rpsofts.com/app/doc/pac.html
 支持win，mac，安卓，IOS全部平台。无需额外软件。。适合新手使用。   
