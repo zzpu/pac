@@ -1,4 +1,10 @@
 [墙已加高，建议使用ssr替代本项目。。。]
+
+# 目前通过squid已经访问https都会被墙，需要数据进行加密，例如  可以配合stunnel继续使用，不过已经不方便，建议换ssr > https://github.com/rptec/SSR-Bash-Python。   
+
+免费服务依旧提供，保留部分节点   请自行注册 http://www.fuli.cf/
+
+
 =======
 利用国外VPS搭建多协议代理服务。http://v.rpsofts.com/app/doc/pac.html
 支持win，mac，安卓，IOS全部平台。无需额外软件。。适合新手使用。   
