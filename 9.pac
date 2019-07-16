@@ -1,4 +1,4 @@
-var proxy = "PROXY www.30d.bid:25;";
+var proxy = "__PROXY__";
 
 var domains = {
   "acfun.com": 1, 
