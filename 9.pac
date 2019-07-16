@@ -3,6 +3,8 @@ var proxy = "PROXY www.30d.bid:25;";
 var domains = {
   "acfun.com": 1, 
   "bilibili.com": 1, 
+  "www.baidu.com":1,
+  "blog.csdn.net":1,
   "iqiyi.com": 1, 
   "pps.tv": 1, 
   "lixian.xunlei.com": 1, 
