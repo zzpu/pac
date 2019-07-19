@@ -38,7 +38,7 @@ function FindProxyForURL(url, host) {
             if (hasOwnProperty.call(domains, host)) {
                 return proxy;
             } else {
-                return direct;
+                return proxy;
             }
         }
         suffix = host.substring(pos + 1);
