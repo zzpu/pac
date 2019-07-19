@@ -3,6 +3,7 @@ var proxy = "127.0.0.1:8080";
 var domains = {
   "acfun.com": 1, 
   "bilibili.com": 1, 
+  "baidu.com":1,
   "www.baidu.com":1,
   "blog.csdn.net":1,
   "iqiyi.com": 1, 
