@@ -1,4 +1,4 @@
-var proxy = "__PROXY__";
+var proxy = "127.0.0.1:8080";
 
 var domains = {
   "acfun.com": 1, 
